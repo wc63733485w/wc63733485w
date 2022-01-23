@@ -1,4 +1,4 @@
-### Hi there 👋
+# Better an open enemy than a false friend. 👋
 
 <!--
 **wc63733485w/wc63733485w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
